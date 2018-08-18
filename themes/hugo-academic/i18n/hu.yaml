@@ -1,0 +1,168 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: Tartalomjegyzék
+
+# General
+
+- id: related
+  translation: Kapcsolódó
+
+- id: minute_read
+  translation: perces olvasmány
+
+- id: previous
+  translation: Előző
+
+- id: next
+  translation: Következő
+
+- id: figure
+  translation: "Ábra %d:"
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Idézés
+
+- id: btn_slides
+  translation: Diasor
+
+- id: btn_video
+  translation: Videó
+
+- id: btn_code
+  translation: Kód
+
+- id: btn_dataset
+  translation: Adat
+
+- id: btn_project
+  translation: Projekt
+
+- id: btn_poster
+  translation: Poszter
+
+- id: btn_source
+  translation: Source Document
+
+- id: btn_copy
+  translation: Másolás
+
+- id: btn_download
+  translation: Letöltés
+
+# About widget
+
+- id: interests
+  translation: Érdeklődési kör
+
+- id: education
+  translation: Tanulmányok
+
+# Publications widget
+
+- id: more_publications
+  translation: További publikációk
+
+# Posts widget
+
+- id: continue_reading
+  translation: OLVASS TOVÁBB
+
+- id: more_posts
+  translation: További posztok
+
+# Talks widget
+
+- id: more_talks
+  translation: További előadások
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Absztrakt
+
+- id: publication
+  translation: Publikáció
+
+- id: publication_type
+  translation: Típus
+
+- id: date
+  translation: Dátum
+
+- id: last_updated
+  translation: Utolsó frissítés
+
+- id: links
+  translation: Linkek
+
+- id: event
+  translation: Esemény
+
+- id: location
+  translation: Helyszn
+
+# Filtering
+
+- id: filter_by_type
+  translation: Szűrés
+
+- id: filter_all
+  translation: Összes
+
+# Project details
+
+- id: open_project_site
+  translation: Pojekthez
+
+# Default node titles
+
+- id: posts
+  translation: Posztok
+
+- id: publications
+  translation: Publikációk
+
+- id: talks
+  translation: Előadások
+
+- id: projects
+  translation: Projektek
+
+# Search
+
+- id: search_placeholder
+  translation: Keresés...
+
+- id: search_no_results
+  translation: Nincs találat
+
+# Error 404
+
+- id: page_not_found
+  translation: A keresett oldal nem található
+
+- id: 404_recommendations
+  translation: Talán erre gondolt?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Ez a weboldal sütiket használ a legjobb felhasználói élmény eléréséhez.
+
+- id: cookie_dismiss
+  translation: Rendben!
+
+- id: cookie_learn
+  translation: Bővebben
