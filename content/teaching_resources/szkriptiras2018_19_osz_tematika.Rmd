@@ -1,0 +1,49 @@
+---
+title: "Beszédtudományi speciális kollégium - tematika"
+author: "Bartók Márton"
+date: '2018 08 19 '
+output: blogdown::html_page
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Beszédtudományi speciális kollégium
+
+2018/2019 őszi félév
+
+* időpont: csütörtök	13.30-16.30 (páros heteken)
+* helyszín: ????
+* oktató: Bartók Márton
+
+Óra | Anyag
+---- | ----------------------------------------------------------------
+I. | Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa.
+II. | For ciklus. If kondíció, logikai változók. Automatizált fájl- és objektumkezelés.
+III. | Rövid szkriptek írása, debuggolás, kommentelés a gyakorlatban. Online információkeresés, régi vs. új PraatScript szintaxis.
+IV. | TextGrid objektumok automatikus elemzése. Nyelvi elemek elemzése, sztring funciók.
+V. | Akusztikai elemzések objektumai: Harmonicity, Pitch, FormantGrid, stb.
+VI. | Akusztikai elemzés annotátum alapján. Csoportos projektmunka
+
+
+A kurzus látogatásköteles. Minden órán szükség lesz saját laptopra, előre telepített  Praat-tal és szövegszerkesztővel (ajánlott: Sublime text 3 vagy Notepad++). A szoftvereket mindenki már az első óra előtt telepítse!
+
+###A kurzus előfeltételei
+A Praat funkcióinak, felhasználói felületének alapszintű ismerete. Ezeknek az ismereteknek a hiánya nagyrészt pótolható az alábbi videók végignézésével, és a Praattal való rövid kísérletezéssel. Legalább alapszintű angol nyelvtudás.
+
+###Praat gyorstalpaló:
+* https://www.youtube.com/watch?v=BHzkO1jaL7Y
+* https://www.youtube.com/watch?v=-7mCKZ1islA
+* https://www.youtube.com/watch?v=YVJbi0WPqPw
+
+###Szoftverek
+* Praat: http://www.fon.hum.uva.nl/praat/
+* Szövegszerkesztő
+    + Notepad++ https://notepad-plus-plus.org/
+	  + Sublime text: https://www.sublimetext.com/3
+
+###Ajánlott irodalom
+* Praat Tutorial. http://www.fon.hum.uva.nl/praat/manual/Scripting.html
+* Jörg Mayer. Praat Scripting Tutorial. http://praatscripting.lingphon.net/
+* Szekrényes István 2013. Számítógépes beszédfeldolgozás. Bevezetés a Praat program használatába. http://lingua.arts.unideb.hu/compling/praat/praat-tutorial.html

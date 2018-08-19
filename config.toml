@@ -170,7 +170,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -280,11 +280,16 @@ enableGitInfo = false
   name = "Publications"
   url = "publications"
   weight = 3
+  
+[[menu.main]]
+  name = "Courses"
+  url = "courses"
+  weight = 4
 
 [[menu.main]]
   name = "Blog"
   url = "post"
-  weight = 4
+  weight = 5
 
 # [[menu.main]]
 #   name = "Publications"
@@ -372,11 +377,16 @@ enableGitInfo = false
       name = "Publikációk"
       url = "publications"
       weight = 3
+      
+    [[languages.hu.menu.main]]
+      name = "Oktatás"
+      url = "courses"
+      weight = 4 
     
     [[languages.hu.menu.main]]
       name = "Blog"
       url = "post"
-      weight = 4
+      weight = 5
     
     # [[languages.hu.menu.main]]
     #   name = "Publications"
