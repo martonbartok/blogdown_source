@@ -12,4 +12,4 @@ header:
 
 I am teaching the following course during the 2018/2019 autumn semester:
 
-Specialisation course on speech sciences (Praat scripting). [Syllabus in Hungarian](../teaching_resources/szkriptiras2018_19_osz_tematika)
+Specialisation course on speech sciences (Praat scripting). [Syllabus in Hungarian](../../hu/teaching_resources/szkriptiras2018_19_osz_tematika)

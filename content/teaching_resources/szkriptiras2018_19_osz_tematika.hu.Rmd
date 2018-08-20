@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Óra | Anyag
 ---- | ----------------------------------------------------------------
-I. | Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa.
+I. | Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. <a href="../../../slides/szkriptiras_slides/szkriptiras_slides01.html">Diasor</a>
 II. | For ciklus. If kondíció, logikai változók. Automatizált fájl- és objektumkezelés.
 III. | Rövid szkriptek írása, debuggolás, kommentelés a gyakorlatban. Online információkeresés, régi vs. új PraatScript szintaxis.
 IV. | TextGrid objektumok automatikus elemzése. Nyelvi elemek elemzése, sztring funciók.
