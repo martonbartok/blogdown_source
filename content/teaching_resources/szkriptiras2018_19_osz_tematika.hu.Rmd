@@ -13,24 +13,42 @@ knitr::opts_chunk$set(echo = TRUE)
 
 2018/2019 őszi félév
 
-* időpont: csütörtök	13.30-16.30 (páros heteken)
-* helyszín: ????
+* időpont: csütörtök	13.30-16.30 (A táblázatban feltüntetett időpontokban)
+* helyszín: A/248.
 * oktató: Bartók Márton
+* elérhetőség: bartokmarton@gmail.com
 
-Óra | Anyag | Diasor
----- | ---------------------------------------------------------------- | ------
-I. | Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. | <a href="../../../slides/szkriptiras_slides/szkriptiras_slides01.html" target = "_blank">Diasor 1. </a> <a href="../../../slides/szkriptiras_slides/szkriptiras_slides02.html" target = "_blank">Diasor 2. </a>
-II. | For ciklus. If kondíció, logikai változók. Automatizált fájl- és objektumkezelés. |
-III. | Rövid szkriptek írása, debuggolás, kommentelés a gyakorlatban. Online információkeresés, régi vs. új PraatScript szintaxis. |
-IV. | TextGrid objektumok automatikus elemzése. Nyelvi elemek elemzése, sztring funciók. |
-V. | Akusztikai elemzések objektumai: Harmonicity, Pitch, FormantGrid, stb. |
-VI. | Akusztikai elemzés annotátum alapján. Csoportos projektmunka |
+Óra | Időpont | Anyag | Diasor | Feladat
+---- | ---- | ---------------------------------------------------------------- | ------ | ------
+I. | szept. 13. | Felhasználhatóság, lehetőségek, előnyök. A Praat funkciói. Az automatizálás alapjai. Objektumorientált szemlélet. Szkriptek szerkesztése, futtatása. A naplófájl felhasználása. Kommentelés. Online források. Funkciók, paraméterek. Változótípusok a PraatScriptben. Operátorok. A Praat szintaxisa. | <!--<a href="../../../static/teaching_material/praat_scripting_2018/szkriptiras_slides01.html" target = "_blank">Diasor 1. </a> <a href="../../../static/teaching_material/praat_scripting_2018/szkriptiras_slides02.html" target = "_blank">Diasor 2. </a> --> | Határidő: okt. 8.
+II. | okt. 11. | For ciklus. If kondíció, logikai változók. Automatizált fájl- és objektumkezelés. | | Határidő: okt. 22.
+III. | okt. 25. | Rövid szkriptek írása, debuggolás, kommentelés a gyakorlatban. Online információkeresés, régi vs. új PraatScript szintaxis. | | Határidő: nov. 12.
+IV. | nov. 15. | TextGrid objektumok automatikus elemzése. Nyelvi elemek elemzése, sztring funciók. | |Határidő: nov. 24.
+V. | nov. 29. | Akusztikai elemzések objektumai: Harmonicity, Pitch, FormantGrid, stb. | |
+VI. | dec. 6. 🎅🏻 | Akusztikai elemzés annotátum alapján. Csoportos projektmunka | |
 
 
 A kurzus látogatásköteles. Minden órán szükség lesz saját laptopra, előre telepített  Praat-tal és szövegszerkesztővel (ajánlott: Sublime text 3 vagy Notepad++). A szoftvereket mindenki már az első óra előtt telepítse!
 
 ###A kurzus előfeltételei
 A Praat funkcióinak, felhasználói felületének alapszintű ismerete. Ezeknek az ismereteknek a hiánya nagyrészt pótolható az alábbi videók végignézésével, és a Praattal való rövid kísérletezéssel. Legalább alapszintű angol nyelvtudás.
+
+###A kurzus teljesítésének feltételei
+* az órákon való aktív részvétel
+* 4 beadandó feladat elkészítése - max. 4x20 pont
+* és a csoportos projektmunkában való konstruktív részvétel - max 20 pont
+* Javításként lehetőség van egy 100 pontos zárthelyi megírására a félév végén, ez esetben az érdemjegyet kizárólag az itt szerzett pontok függvényében számolom.
+
+Pont | Érdemjegy
+---- | ---------
+1-50 | 1
+51-64 | 2
+65-76 | 3
+77-88 | 4
+89-100 | 5
+
+####Feladatok
+A feladatok utasításai mindig az adott óra előtt kerülnek fel ide. A beküldés határideje **a következő órát megelőző hétfő éjfél**. A késve beérkezett feladatokkal maximum 10 pontot lehet szerezni. A feladatokat a bartokmarton@gmail.com e-mail címre, az alábbi elnevezési konvenció szerint várom: `feladat_feladatsorszáma_vezetéknévékezeteknélkül.praat`, pl. `feladat_1_gaal.praat`.
 
 ###Praat gyorstalpaló:
 * https://www.youtube.com/watch?v=BHzkO1jaL7Y

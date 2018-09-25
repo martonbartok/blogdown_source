@@ -141,7 +141,7 @@ Remove
 * **Komment kezdése PraatScript-ben: #**
     + A teljes sor (A következő Enter-ig komment lesz)
 
-*Kommenteljük fel a szkriptünk minden vonalát!*
+*Kommenteljük fel a szkriptünk minden sorát!*
 
 ##Online források I.
 
