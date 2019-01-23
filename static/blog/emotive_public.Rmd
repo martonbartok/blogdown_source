@@ -6,6 +6,9 @@ output: html_document
 css: architect.css
 bibliography: emotive_bibliography.bib
 ---
+<head>
+<meta property="og:image" content="img/graph.png">
+</head>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
