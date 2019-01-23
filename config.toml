@@ -383,10 +383,10 @@ enableGitInfo = false
       url = "courses"
       weight = 4 
     
-    [[languages.hu.menu.main]]
-      name = "Blog"
-      url = "post"
-      weight = 5
+#    [[languages.hu.menu.main]]
+#      name = "Blog"
+#      url = "post"
+#      weight = 5
     
     # [[languages.hu.menu.main]]
     #   name = "Publications"
