@@ -30,10 +30,10 @@ VI. | dec. 6. 🎅🏻 | Akusztikai elemzés annotátum alapján. Csoportos proj
 
 A kurzus látogatásköteles. Minden órán szükség lesz saját laptopra, előre telepített  Praat-tal és szövegszerkesztővel (ajánlott: Sublime text 3 vagy Notepad++). A szoftvereket mindenki már az első óra előtt telepítse!
 
-###A kurzus előfeltételei
+### A kurzus előfeltételei
 A Praat funkcióinak, felhasználói felületének alapszintű ismerete. Ezeknek az ismereteknek a hiánya nagyrészt pótolható az alábbi videók végignézésével, és a Praattal való rövid kísérletezéssel. Legalább alapszintű angol nyelvtudás.
 
-###A kurzus teljesítésének feltételei
+### A kurzus teljesítésének feltételei
 * az órákon való aktív részvétel
 * 4 beadandó feladat elkészítése - max. 4x20 pont
 * és a csoportos projektmunkában való konstruktív részvétel - max 20 pont
@@ -47,21 +47,21 @@ Pont | Érdemjegy
 77-88 | 4
 89-100 | 5
 
-####Feladatok
+#### Feladatok
 A feladatok utasításai mindig az adott óra előtt kerülnek fel ide. A beküldés határideje **a következő órát megelőző hétfő éjfél**. A késve beérkezett feladatokkal maximum 10 pontot lehet szerezni. A feladatokat a bartokmarton@gmail.com e-mail címre, az alábbi elnevezési konvenció szerint várom: `feladat_feladatsorszáma_vezetéknévékezeteknélkül.praat`, pl. `feladat_1_gaal.praat`.
 
-###Praat gyorstalpaló:
+### Praat gyorstalpaló:
 * https://www.youtube.com/watch?v=BHzkO1jaL7Y
 * https://www.youtube.com/watch?v=-7mCKZ1islA
 * https://www.youtube.com/watch?v=YVJbi0WPqPw
 
-###Szoftverek
+### Szoftverek
 * Praat: http://www.fon.hum.uva.nl/praat/
 * Szövegszerkesztő
     + Notepad++ https://notepad-plus-plus.org/
 	  + Sublime text: https://www.sublimetext.com/3
 
-##Ajánlott irodalom
+## Ajánlott irodalom
 * Praat Tutorial. http://www.fon.hum.uva.nl/praat/manual/Scripting.html
 * Jörg Mayer. Praat Scripting Tutorial. http://praatscripting.lingphon.net/
 * Szekrényes István 2013. Számítógépes beszédfeldolgozás. Bevezetés a Praat program használatába. http://lingua.arts.unideb.hu/compling/praat/praat-tutorial.html
