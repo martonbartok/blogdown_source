@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * elérhetőség: bartokmarton@gmail.com
 
 Időpont | Anyag | Diasor
----- | ---- | ---------------------------------------------------------------- | ------
+---- | ------------------------------------------------- | -----------
 Február 14. |	A fonetika tárgya és módszerei. A beszédfolyamat egységei. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_01.pdf" target = "_blank">Diasor 1.</a>
 Február 21.	| A légzés és zöngeképzés, a beszédjel akusztikai szerkezetének alapjai. |
 Február 28.	| A szupraszegmentális szerkezet. |
