@@ -1,0 +1,77 @@
+---
+title: "Beszédtudományi speciális kollégium - tematika"
+author: "Bartók Márton"
+date: '2019 02 14'
+output: blogdown::html_page
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Fonetika
+
+*BBN–MNY–211, OT-MAGY-122*
+
+2019 tavaszi félév
+
+* időpont: csütörtök	11.35-13.05 (A táblázatban feltüntetett időpontokban)
+* helyszín: D épület fszt. 21.
+* oktató: Bartók Márton
+* elérhetőség: bartokmarton@gmail.com
+
+Időpont | Anyag | Diasor
+---- | ---- | ---------------------------------------------------------------- | ------
+Február 14. |	A fonetika tárgya és módszerei. A beszédfolyamat egységei. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_01.pdf" target = "_blank">Diasor 1.</a>
+Február 21.	| A légzés és zöngeképzés, a beszédjel akusztikai szerkezetének alapjai. |
+Február 28.	| A szupraszegmentális szerkezet. |
+Március 7. |	Az artikuláció vizsgálatának eszközei. A szupraglottális artikuláció alapjai. (A épület 253-as terem!) |
+Március 14.	| nincs óra |
+Március 21.	| Magánhangzók produkciója: artikuláció és akusztikum. |
+Március 28.	| Mássalhangzók produkciója: artikuláció és akusztikum. |
+Április 4. |	Magánhangzók és mássalhangzók produkciója: összefoglalás. Lejegyzési konvenciók, az IPA. |
+Április 11. |	Koartikuláció. |
+Április 18. |	Tavaszi szünet |
+Április 25.	| Nincs óra, OTDK |
+Május 2.	| Fonológiai folyamatok. |
+Május 9. |	Hallás és beszédpercepció. |
+Május 16.	| Alkalmazott fonetika |
+
+**A kurzus látogatásköteles gyakorlat, három hiányzás lehetséges.**
+
+## Számonkérés
+
+*	Minden óra elején **feleletválasztós kérdések** az elmúlt órák anyagából (max 35p)
+    + 4 kérdés az előző órai anyagból + 1 kérdés az azt megelőző óráról
+    + Ha egy kérdésre a jelenlévők kevesebb, mint 1/3-a tud csak válaszolni, az a kérdés nem számít bele a pontszámokba, valamelyik későbbi órán újra fel lesz téve a kérdés (vagy egy hasonló, ugyanarra a tudáselemre koncentráló kérdés)
+    + Hármat ki lehet hagyni a 10 kérdéssor közül (vagy a három legalacsonyabb pontszám nem számít)
+* **Fonetikai átírás** (*május 2-i óra elején kell/lehet leadni*, max 15p)
+    + Egy választható 1 perces beszédanyag (youtube videó/hangfelvétel fonetikus átírása IPA lejegyzési konvencióban)
+* **Szóbeli beszámoló** egy fonetikai témából 10 percben + 5 perc kérdések (max 50p)
+    + A beszámolóra való felkészülésre 24 óra áll rendelkezésre, tehát 24 órával a beszámoló időpontja előtt lesz nyilvános a bemutatandó téma
+    + **Március 21-ig időpontot választani** az alábbiakból
+        + április 1 hétfő (10-18 óra), április 5 péntek (8-11 óra)
+        + április 8 hétfő (10-18 óra), április 12 péntek (8-11 óra)
+        + szavazás a kurzusmailben küldött linken
+    + Értékelés (összesen maximum 50 pont)
+        + Fonetikai fogalmak, terminusok megfelelő használata 10p
+        + Összefüggések, ok-okozati viszonyok megalapozott megragadása 10p
+        + Kritikus, sokszínű forráshasználat 10p
+        + Előadásmód 10p
+        + Kérdésekre adott válaszok 10p
+*	Lehetőség **pluszpontok** szerzésére (az alábbiak mind 5 pontot érnek, de csak egy végezhető el, így összesen 5 pont szerezhető)
+    + Részvétel fonetikai kísérletben adatközlőként (kb 1 óra a Fonetikai Tanszéken)
+    + Interaktív módszertani megoldás kifejlesztése egy tetszőleges fonetikai jelenség, kérdéskör általános- vagy középiskolai oktatására (fél oldalas összefoglaló írásban a szorgalmi időszak utolsó het péntek éjfélig e-mailben)
+
+
+## Érdemjegy
+
+Pont | Érdemjegy
+---- | ---------
+0-49 | 1
+50-62 | 2
+63-75 | 3
+76-88 | 4
+89-100 | 5
+
+Az érdemjegy a vizsgaidőszak második hetének végéig javítható a szóbeli beszámoló megismétlésével.
