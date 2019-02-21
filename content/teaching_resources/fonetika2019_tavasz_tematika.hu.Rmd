@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Időpont | Anyag | Diasor
 ---- | ------------------------------------------------- | -----------
 Február 14. |	A fonetika tárgya és módszerei. A beszédfolyamat egységei. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_01.pdf" target = "_blank">Diasor 1.</a>
-Február 21.	| A légzés és zöngeképzés, a beszédjel akusztikai szerkezetének alapjai. |
+Február 21.	| A légzés és zöngeképzés, a beszédjel akusztikai szerkezetének alapjai. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_02.pdf" target = "_blank">Diasor 2.</a>
 Február 28.	| A szupraszegmentális szerkezet. |
 Március 7. |	Az artikuláció vizsgálatának eszközei. A szupraglottális artikuláció alapjai. (A épület 253-as terem!) |
 Március 14.	| nincs óra |
