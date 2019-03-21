@@ -27,7 +27,7 @@ Február 21.	| A légzés és zöngeképzés. | <a href="../../../teaching_mater
 Február 28.	| A beszédjel akusztikai szerkezetének alapjai. A szupraszegmentális szerkezet I. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_03.pdf" target = "_blank">Diasor 3.</a><a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_03b.pdf" target = "_blank">Diasor 3b.</a>
 Március 7. |	Az artikuláció vizsgálatának eszközei. A szupraglottális artikuláció alapjai. (A épület 248-as terem!) | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_04.pdf" target = "_blank">Diasor 4.</a>
 Március 14.	| nincs óra |
-Március 21.	| Magánhangzók produkciója: artikuláció és akusztikum. | <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_05a.pdf" target = "_blank">Képzési helyek JÁTÉK</a><a href="https://www.purposegames.com/game/parts-of-the-vocal-tract-hungarian" target = "_blank">Diasor 5a.</a><a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_05b.pdf" target = "_blank">Diasor 5b.</a>
+Március 21.	| Magánhangzók produkciója: artikuláció és akusztikum. | <a href="<a href="https://www.purposegames.com/game/parts-of-the-vocal-tract-hungarian" target = "_blank">Képzési helyek JÁTÉK</a> <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_05a.pdf" target = "_blank">Diasor 5a.</a> <a href="../../../teaching_material/phonetics_2019_spring/fonetika_2019_05b.pdf" target = "_blank">Diasor 5b.</a>
 Március 28.	| Mássalhangzók produkciója: artikuláció és akusztikum. |
 Április 4. |	Magánhangzók és mássalhangzók produkciója: összefoglalás. Lejegyzési konvenciók, az IPA. |
 Április 11. |	Koartikuláció. |
